@@ -1,0 +1,107 @@
+C:\Users\adm\Desktop\Solution1(I)\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\adm\Desktop\Solution1(I)\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\adm\Desktop\Solution1(I)\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\adm\Desktop\Solution1(I)\DTO\obj\Debug\net8.0\ref\DTO.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\bin\Debug\net8.0\DTO.deps.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\bin\Debug\net8.0\DTO.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\bin\Debug\net8.0\DTO.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\refint\DTO.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\DTO.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\DTO\obj\Debug\net8.0\ref\DTO.dll

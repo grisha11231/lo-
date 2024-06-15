@@ -1,0 +1,108 @@
+C:\Users\adm\Desktop\Solution1(I)\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\adm\Desktop\Solution1(I)\Data\bin\Debug\net8.0\Data.dll
+C:\Users\adm\Desktop\Solution1(I)\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.dll
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\adm\Desktop\Solution1(I)\Data\obj\Debug\net8.0\ref\Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\bin\Debug\net8.0\Data.deps.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\bin\Debug\net8.0\Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\bin\Debug\net8.0\Data.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\refint\Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\Data.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\User\Desktop\proects\Solution1_V3\Data\bin\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\User\Desktop\proects\Solution1_V4\Data\bin\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Data\obj\Debug\net8.0\ref\Data.dll

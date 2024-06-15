@@ -1,0 +1,171 @@
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\adm\Desktop\Solution1(I)\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\adm\Desktop\Solution1(I)\Repository\obj\Debug\net8.0\ref\Repository.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\Repository.deps.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\Repository.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\Repository.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\DTO.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\Data.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\bin\Debug\net8.0\DTO.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\refint\Repository.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\proects\Solution1_V3\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.csproj.CopyComplete
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\proects\Solution1_V4\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\Repository\obj\Debug\net8.0\ref\Repository.dll

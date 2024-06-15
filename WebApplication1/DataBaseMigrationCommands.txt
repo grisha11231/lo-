@@ -1,0 +1,26 @@
+// выберает директорию (пример  set-location C:\Users\Admin\Desktop\Proect\Solution1_V3 )
+1) set-location ...
+
+
+
+перед выполнением команд ПКМ по Solution1 -> OpenIn -> Terminal (что бы не использовать set-location ...) 
+
+
+// добавление миграции с именем Init3
+2) dotnet-ef migrations add Init3 --project Repository --startup-project WebApplication1 
+
+// удаление последней созданной миграции
+3) dotnet-ef migrations remove --project Repository --startup-project WebApplication1
+
+// построение базы данных по последней созданой миграции
+4) dotnet-ef database update --project WebApplication1
+
+// очистка базы данных 
+5) dotnet-ef database drop --project WebApplication1 // потом введите y  (yes)                                                                            
+
+
+
+в проекте MebApplication1 есть фаилики appsettings.json и идентичная копия appsettings.Development..json
+ в "DefaultConnection": "Server=DESKTOP-7RE3N7J\SQLEXPRESS;Database=LOL;Trusted_Co..."
+                                ^------------------------^          ^-^                               
+                                      сылка на вашу БД          нзвание БД

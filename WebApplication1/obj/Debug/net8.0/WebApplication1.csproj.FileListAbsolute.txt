@@ -1,0 +1,1402 @@
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\adm\Desktop\Solution1(I)\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\appsettings.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Data.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\DTO.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Repository.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Service.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Data.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\DTO.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Repository.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\bin\Debug\net8.0\Service.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+G:\МАИ\3 курс 2 сем\Объектно-Ориентированное Программирование\Solution1_V2\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V3\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CopyComplete
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\User\Desktop\proects\Solution1_V3\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V4\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CopyComplete
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\User\Desktop\proects\Solution1_V4\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1_V5\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\DTO.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Repository.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Service.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\DTO.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Repository.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\bin\Debug\net8.0\Service.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Proect\Hastua\Solution1VV\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

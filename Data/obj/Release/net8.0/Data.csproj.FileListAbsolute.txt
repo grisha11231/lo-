@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\bin\Release\net8.0\Data.deps.json
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\bin\Release\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\bin\Release\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\refint\Data.dll
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\Data.pdb
+C:\Users\Admin\Desktop\Proect\Solution1_V5\Data\obj\Release\net8.0\ref\Data.dll
